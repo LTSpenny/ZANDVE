@@ -11,4 +11,5 @@ Printing Instructions:
 
 * **Version Changes**
 * **V.0** - Original Pillow Block addition to Left Stepper Mount
-* **V.1** - Added space to allow full Mercury 1.1 Bearing Stack install. (**CURRENT UPLOADED VERSION**)
+* **V.1** - Added space to allow full Mercury 1.1 Bearing Stack install. 
+* **V.2** - **14APR23** Test Printed and ensured function of modified files. Pillow Block and Mercury 1.1 Bearing Stacks functional without added stress to parts.(**CURRENT UPLOADED VERSION**)
